@@ -7,7 +7,7 @@
 ## 💫 About Me
 - 🎓 College student passionate about technology  
 - 💻 Learning **Data Structures & Algorithms**  
-- 🌱 Exploring **Backend Development** (Node.js, Express, MongoDB)  
+- 🌱 Exploring **Backend Development** (spring boot, Sql ,MongoDB)  
 - 🚀 Building **real-world projects**  
 - 🔥 Consistent learner with a growth mindset  
 
